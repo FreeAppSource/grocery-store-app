@@ -1,5 +1,7 @@
 # Grocery Store App (FreshMart)
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Ami Moradia** (credits below)
+
 A grocery delivery and in-store smart navigation app based on the **Grocery Store App** Sketch UI Kit (29 artboards across Material and Neumorphic design paradigms by Ami Moradia). Built with **React Native 0.88+**, **Expo SDK 58+**, and **Expo Router** using **pure JavaScript and JSX (`.js`, `.jsx`)**.
 
 ---
@@ -54,6 +56,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/grocery-store-app> |
+
+<!-- developer:end -->
 
 ---
 
