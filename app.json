@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Grocery Store App",
+    "slug": "grocery-store",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#059669"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "grocerystore"
+  }
+}
